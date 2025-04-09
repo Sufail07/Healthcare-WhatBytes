@@ -56,7 +56,6 @@ This project is a backend system for a healthcare application. It provides funct
     Create a `.env` file in the project root and add the following configurations:
 
     ```env
-    SECRET_KEY=your_secret_key
     DEBUG=True
     DATABASE_NAME=your_db_name
     DATABASE_USER=your_db_user
