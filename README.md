@@ -9,9 +9,6 @@ An API developed for the WhatBytes internship assignment.
 - [Tech Stack](#tech-stack)
 - [Setup and Installation](#setup-and-installation)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
